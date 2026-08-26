@@ -1,5 +1,6 @@
 Hi I’m @Regan-1, focused on practical defenses & secure software.
 
+
  	Interests
 - Application security: threat modeling, secure coding
 - Offensive security: CTFs, exploit prototyping
@@ -7,8 +8,9 @@ Hi I’m @Regan-1, focused on practical defenses & secure software.
 
  	Projects
 Vuln-triage- automated script
-CI/CD with security gates(secure-ci-templates)
+ CI/CD with security gates(secure-ci-templates)
 Ctf write-ups
+
 
 <!---
 Regan-1/Regan-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
