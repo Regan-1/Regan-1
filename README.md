@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @Regan-1
-👀 I'm focused on practical defenses & secure software
--🌱
+👀 I'm focused on practical defenses & secure software.
 - Interests.
-- Application security: threat modeling, secure coding
-- Offensive security: CTFs, exploit prototyping
-- Infrastructure security: hardening, detection engineering
--  💞️Projects
+- Application security: threat modeling, secure coding.
+- Offensive security: CTFs, exploit prototyping.
+- Infrastructure security: hardening, detection engineering.
+-Projects
 -Vuln-triage- automated script
 -CI/CD with security gates(secure-ci-templates)
 -Ctf write-ups
