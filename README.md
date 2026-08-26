@@ -6,9 +6,9 @@ Hi I’m @Regan-1, focused on practical defenses & secure software.
 - Offensive security: CTFs, exploit prototyping
 - Infrastructure security: hardening, detection engineering
 
- 	Projects
-Vuln-triage- automated script
- CI/CD with security gates(secure-ci-templates)
+ 	Projects:
+Vuln-triage- automated script,
+ CI/CD with security gates(secure-ci-templates)&
 Ctf write-ups
 
 
